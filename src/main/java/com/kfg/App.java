@@ -14,6 +14,8 @@ public class App
         int a = 20;
         int b = 30;
         int c = a+b;
+        int d = c*c;
         System.out.println( a +"+"+ b +"=" + c );
+        System.out.println("result:" + d);
     }
 }
